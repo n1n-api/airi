@@ -1,0 +1,192 @@
+{
+  "header": {
+    "nav": {
+      "features": "功能特性",
+      "models": "模型广场",
+      "pricing": "价格方案",
+      "docs": "开发文档",
+      "blog": "技术博客",
+      "contact": "联系我们",
+      "login": "登录",
+      "signup": "注册"
+    },
+    "banner": {
+      "new": "最新",
+      "text": "n1n v2.0.1 正式上线！立即注册领取免费额度。",
+      "try": "立即尝试"
+    }
+  },
+  "hero": {
+    "tagline": "企业级大模型 API 聚合平台",
+    "title": "万象归一",
+    "typewriter": ["连接智能。", "统合模型。", "加速推理。", "定义未来。"],
+    "subtitle": "OpenAI 国内直连服务，支持 GPT-5、Claude 4.5、Gemini 3 Pro、DeepSeek V3.2。只需一个 API Key，即可连接全球 500+ 顶尖 AI 模型。企业级稳定性，无惧封号。",
+    "cta": {
+      "primary": "立即构建",
+      "secondary": "阅读文档"
+    },
+    "features": {
+        "global": "全球边缘网络",
+        "security": "企业级安全防护"
+    }
+  },
+  "features": {
+    "title_prefix": "专为",
+    "title_highlight": "极速而生",
+    "system_diagnostics": "系统诊断",
+    "items": {
+      "0": {
+        "title": "全能神经链路",
+        "subtitle": "一键接入 500+ 模型",
+        "description": "标准接口兼容 GPT-5, Claude 4.5, Gemini 3 Pro, DeepSeek V3.2 等主流模型。无需修改代码，瞬间切换模型。"
+      },
+      "1": {
+        "title": "CN2 极速专线",
+        "subtitle": "全球直连无障碍",
+        "description": "24 个企业级 CN2 GIA 节点覆盖 7 大区域。无需 VPN/代理，直接访问全球顶级 AI 服务。"
+      },
+      "2": {
+        "title": "舰队指挥系统",
+        "subtitle": "精细化权限控制",
+        "description": "分发子密钥，精确控制额度、过期时间和模型权限。全方位可视化用量监控。"
+      },
+      "3": {
+        "title": "能源优化引擎",
+        "subtitle": "极致成本效益",
+        "description": "共享企业级阶梯定价优势。相比直接对接源头供应商，可大幅降低使用成本。"
+      },
+      "4": {
+        "title": "高可用性架构",
+        "subtitle": "99.99% 在线率",
+        "description": "多路冗余路由确保服务永不掉线，即使单一供应商发生故障也能自动无缝切换。"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "深受全球开发者信赖",
+    "subtitle": "加入数万名开发者的行列，使用 n1n 构建下一代 AI 应用。",
+    "stats": {
+        "developers": "开发者",
+        "requests": "日均请求量",
+        "uptime": "在线率"
+    },
+    "items": [
+      {
+        "content": "n1n 彻底改变了我们的工作流。一行配置就能在 GPT-5、Claude 4.5 和开源模型之间切换，这简直太神了。以前我们要花几天重构适配器，现在只需几秒钟。",
+        "author": "Alex Chen",
+        "role": "高级全栈工程师",
+        "avatar": "https://i.pravatar.cc/150?u=alex"
+      },
+      {
+        "content": "延迟的降低是肉眼可见的。对于我们在东南亚和欧洲的用户，n1n 的边缘缓存将 TTFT 减少了 40%。这不仅仅是一个 API 包装器；它是我们全球用户群真正的基础设施升级。",
+        "author": "Sarah Miller",
+        "role": "首席 AI 架构师",
+        "avatar": "https://i.pravatar.cc/150?u=sarah"
+      },
+      {
+        "content": "稳定性至关重要。我们在 n1n 上运行了六个月，在线率无可挑剔。自动回退机制在上游故障期间两次拯救了我们。我们的用户从未察觉到任何异常。",
+        "author": "James Wilson",
+        "role": "工程副总裁",
+        "avatar": "https://i.pravatar.cc/150?u=james"
+      },
+      {
+        "content": "预算控制是救星。管理 15 个开发者的 API 密钥曾经是场噩梦。有了 n1n，我为每个项目设定了硬性限制。它为我们节省了数千美元的意外超支和惊吓账单。",
+        "author": "Emily Zhang",
+        "role": "技术产品经理",
+        "avatar": "https://i.pravatar.cc/150?u=emily"
+      },
+      {
+        "content": "文档是一流的。清晰的示例、类型化的 SDK 和响应迅速的社区。将其集成到我们的 Next.js 栈中用了不到一个小时。在这个领域的开发者体验是无与伦比的。",
+        "author": "Michael Brown",
+        "role": "前端开发人员",
+        "avatar": "https://i.pravatar.cc/150?u=michael"
+      },
+      {
+        "content": "模型无关是未来。我们从 OpenAI 开始，切换到 Anthropic 进行推理，现在使用 DeepSeek 进行编码。所有这些都无需更改核心逻辑。它给了我们真正的供应商独立性。",
+        "author": "David Kim",
+        "role": "独立开发者",
+        "avatar": "https://i.pravatar.cc/150?u=david"
+      },
+      {
+        "content": "统一计费大大简化了我们的会计工作。我们不再管理来自五个不同 AI 提供商的发票，而是得到一份清晰的报表。这是一个小细节，却节省了巨大的行政头痛。",
+        "author": "Lisa Wang",
+        "role": "运营总监",
+        "avatar": "https://i.pravatar.cc/150?u=lisa"
+      },
+      {
+        "content": "我在一个周末构建了一个原型，这本来需要几周时间。预构建的集成和标准化的错误处理意味着我可以专注于产品逻辑，而不是 API 的怪癖。强烈推荐。",
+        "author": "Robert Taylor",
+        "role": "软件架构师",
+        "avatar": "https://i.pravatar.cc/150?u=robert"
+      },
+      {
+        "content": "安全合规是我们最大的障碍。n1n 的 SOC2 就绪和数据隐私功能满足了我们企业客户的所有要求。它使我们得以比计划提前数月推向市场。",
+        "author": "Jessica Martinez",
+        "role": "安全负责人",
+        "avatar": "https://i.pravatar.cc/150?u=jessica"
+      }
+    ]
+  },
+  "footer": {
+    "title": "准备好统一您的 AI 架构了吗？",
+    "subtitle": "立即加入 50,000+ 开发者的行列。获取 API Key，几秒钟内开启构建之旅。",
+    "cta": {
+        "primary": "免费开始",
+        "secondary": "联系销售"
+    },
+    "description": "企业级大模型统一 API 网关。一把钥匙，开启无限可能。",
+    "columns": {
+        "product": "产品",
+        "resources": "资源",
+        "company": "公司"
+    },
+    "links": {
+        "pricing": "定价",
+        "models": "模型列表",
+        "api_ref": "API 参考文档",
+        "status": "服务状态",
+        "docs": "文档中心",
+        "blog": "博客",
+        "community": "社区",
+        "help": "帮助中心",
+        "about": "关于我们",
+        "careers": "加入我们",
+        "legal": "法律条款",
+        "contact": "联系方式"
+    },
+    "copyright": "© 2025 n1n | 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "trusted_by": {
+    "title": "深受开发者信赖，已接入"
+  },
+  "story": {
+    "mission_badge": "我们的使命",
+    "title": "为何构建 n1n",
+    "intro": "我们相信软件的未来是智能的。我们构建 n1n 是为了让这一未来触手可及、充满乐趣且简单易用。",
+    "chapter1": {
+        "title": "无限可能的宇宙",
+        "content": "AI 的世界正在爆发创意。每天都有惊人的新模型出现——有的擅长写诗，有的精通代码，有的则是艺术家。<br/><br/> 我们看着这多彩的混沌，看到了潜力。如果你能无界限地与它们所有人玩耍，会怎样？"
+    },
+    "chapter2": {
+        "title": "复杂性的拼图",
+        "content": "但连接这些点比看起来要难。纠结的线路、不匹配的插头和无尽的手册让我们慢了下来。<br/><br/> 我们意识到，构建者不应该把时间花在与管道搏斗上。你应该去构想下一个伟大的事物。"
+    },
+    "chapter3": {
+        "title": "终获和谐",
+        "content": "所以我们创造了 n1n。把它看作是智能的通用翻译器。它将噪音转化为交响乐。<br/><br/> 现在，你只需一把简单的钥匙就能开启整个 AI 宇宙。它强大、轻松，老实说？这还挺有趣的。"
+    }
+  },
+  "referral": {
+    "tooltip": "获取奖励",
+    "modal": {
+        "title": "邀请好友。<br/>赢取奖励。",
+        "description": "分享 n1n 的力量。好友加入时，你们双方都能立即获得信用额度。此外，还能从他们的前 3 次充值中获得 10% 返利。",
+        "give": "赠送",
+        "get": "获得",
+        "cta": "获取邀请链接",
+        "note": "登录后生成您的专属链接。"
+    }
+  }
+}

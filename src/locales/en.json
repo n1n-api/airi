@@ -1,0 +1,192 @@
+{
+  "header": {
+    "nav": {
+      "features": "Features",
+      "models": "Models",
+      "pricing": "Pricing",
+      "docs": "Docs",
+      "blog": "Blog",
+      "contact": "Contact Us",
+      "login": "Login",
+      "signup": "Sign Up"
+    },
+    "banner": {
+      "new": "New",
+      "text": "n1n v2.0.1 is live! Sign up today and get free credits.",
+      "try": "Try now"
+    }
+  },
+  "hero": {
+    "tagline": "Unified LLM API Gateway for Enterprise",
+    "title": "One API for All Models",
+    "typewriter": ["Intelligence.", "Models.", "Inference.", "Future."],
+    "subtitle": "Stop managing multiple keys. As a premium LLM Aggregator and OpenAI Proxy, n1n connects you to GPT-5, Claude 4.5, Gemini 3 Pro, DeepSeek V3.2, and 500+ models with a single key. Global low-latency AI Gateway for developers.",
+    "cta": {
+      "primary": "Start Building",
+      "secondary": "Read Documentation"
+    },
+    "features": {
+        "global": "Global Edge Network",
+        "security": "Enterprise Security"
+    }
+  },
+  "features": {
+    "title_prefix": "Engineered for",
+    "title_highlight": "Velocity",
+    "system_diagnostics": "System Diagnostics",
+    "items": {
+      "0": {
+        "title": "Universal Neural Link",
+        "subtitle": "One Key, 500+ Models",
+        "description": "Standardized access to GPT-5, Claude 4.5, Gemini 3 Pro, DeepSeek V3.2, and more. Switch models instantly without changing a line of code."
+      },
+      "1": {
+        "title": "CN2 Hyper-Routes",
+        "subtitle": "Global Direct Connect",
+        "description": "24 enterprise-grade CN2 GIA nodes across 7 regions. Access global AI services directly without VPN/Proxy."
+      },
+      "2": {
+        "title": "Fleet Command",
+        "subtitle": "Granular Access Control",
+        "description": "Issue sub-keys with specific quotas, expiration dates, and model permissions. Full visibility into usage."
+      },
+      "3": {
+        "title": "Energy Optimization",
+        "subtitle": "Cost Efficiency",
+        "description": "Enterprise volume pricing passed down to you. Save significantly compared to direct provider billing."
+      },
+      "4": {
+        "title": "High Availability",
+        "subtitle": "99.99% Uptime",
+        "description": "Redundant routing ensures your AI features never go dark, even if one provider has an outage."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Loved by developers worldwide",
+    "subtitle": "Join thousands of developers building the next generation of AI applications with n1n.",
+    "stats": {
+        "developers": "Developers",
+        "requests": "API Requests",
+        "uptime": "Uptime"
+    },
+    "items": [
+      {
+        "content": "n1n transformed our workflow. Switching between GPT-5, Claude 4.5, and open-source models with one config line is game-changing. We used to spend days refactoring adapters; now it takes seconds.",
+        "author": "Alex Chen",
+        "role": "Senior Full Stack Engineer",
+        "avatar": "https://i.pravatar.cc/150?u=alex"
+      },
+      {
+        "content": "Latency reduction is tangible. Serving users in SEA and Europe, n1n's edge caching cut our TTFT by 40%. It's not just an API wrapper; it's a genuine infrastructure upgrade for our global user base.",
+        "author": "Sarah Miller",
+        "role": "Lead AI Architect",
+        "avatar": "https://i.pravatar.cc/150?u=sarah"
+      },
+      {
+        "content": "Reliability is key. We've been running on n1n for six months with impeccable uptime. The automatic fallback mechanism saved us twice during upstream outages. Our users never noticed a thing.",
+        "author": "James Wilson",
+        "role": "VP of Engineering",
+        "avatar": "https://i.pravatar.cc/150?u=james"
+      },
+      {
+        "content": "Budget controls are a lifesaver. Managing API keys across 15 developers was a nightmare. With n1n, I set hard limits per project. It's saved us thousands in accidental overruns and surprise bills.",
+        "author": "Emily Zhang",
+        "role": "Technical Product Manager",
+        "avatar": "https://i.pravatar.cc/150?u=emily"
+      },
+      {
+        "content": "Docs are top-tier. Clear examples, typed SDKs, and a responsive community. Integrating it into our Next.js stack took less than an hour. The developer experience is unmatched in this space.",
+        "author": "Michael Brown",
+        "role": "Frontend Developer",
+        "avatar": "https://i.pravatar.cc/150?u=michael"
+      },
+      {
+        "content": "Model-agnostic is the future. We started with OpenAI, switched to Anthropic for reasoning, and now use DeepSeek for coding. All without changing core logic. It gives us true vendor independence.",
+        "author": "David Kim",
+        "role": "Indie Hacker",
+        "avatar": "https://i.pravatar.cc/150?u=david"
+      },
+      {
+        "content": "The unified billing simplified our accounting significantly. Instead of managing invoices from five different AI providers, we get one clear statement. It's a small detail that saves huge administrative headaches.",
+        "author": "Lisa Wang",
+        "role": "Operations Director",
+        "avatar": "https://i.pravatar.cc/150?u=lisa"
+      },
+      {
+        "content": "I built a prototype in a weekend that would have taken weeks. The pre-built integrations and standardized error handling meant I could focus on product logic, not API quirks. Highly recommended.",
+        "author": "Robert Taylor",
+        "role": "Software Architect",
+        "avatar": "https://i.pravatar.cc/150?u=robert"
+      },
+      {
+        "content": "Security compliance was our biggest hurdle. n1n's SOC2 readiness and data privacy features ticked all the boxes for our enterprise clients. It allowed us to go to market months earlier than planned.",
+        "author": "Jessica Martinez",
+        "role": "Security Lead",
+        "avatar": "https://i.pravatar.cc/150?u=jessica"
+      }
+    ]
+  },
+  "footer": {
+    "title": "Ready to unify your AI stack?",
+    "subtitle": "Join 50,000+ developers scaling with n1n today. Get your API key and start building in seconds.",
+    "cta": {
+        "primary": "Get Started Free",
+        "secondary": "Contact Sales"
+    },
+    "description": "The enterprise-grade unified API gateway for all major LLMs. One key, infinite possibilities.",
+    "columns": {
+        "product": "Product",
+        "resources": "Resources",
+        "company": "Company"
+    },
+    "links": {
+        "pricing": "Pricing",
+        "models": "Models",
+        "api_ref": "API Reference",
+        "status": "Status",
+        "docs": "Documentation",
+        "blog": "Blog",
+        "community": "Community",
+        "help": "Help Center",
+        "about": "About",
+        "careers": "Careers",
+        "legal": "Legal",
+        "contact": "Contact"
+    },
+    "copyright": "© 2025 n1n | All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "trusted_by": {
+    "title": "Trusted by developers building on"
+  },
+  "story": {
+    "mission_badge": "Our Mission",
+    "title": "Why We Built n1n",
+    "intro": "We believe the future of software is intelligent. We built n1n to make that future accessible, joyful, and simple for everyone.",
+    "chapter1": {
+        "title": "A Universe of Possibility",
+        "content": "The world of AI is exploding with creativity. Every day, amazing new models appear—some are poets, some are coders, some are artists. <br/><br/> We looked at this colorful chaos and saw potential. What if you could play with all of them, without boundaries?"
+    },
+    "chapter2": {
+        "title": "The Complexity Puzzle",
+        "content": "But connecting these dots was harder than it looked. Tangled wires, mismatched plugs, and endless manuals slowed us down. <br/><br/> We realized that builders shouldn't spend their time fighting with plumbing. You should be dreaming up the next big thing."
+    },
+    "chapter3": {
+        "title": "Harmony at Last",
+        "content": "So we created n1n. Think of it as a universal translator for intelligence. It turns the noise into a symphony. <br/><br/> Now, you have one simple key to unlock the entire universe of AI. It’s powerful, it’s effortless, and honestly? It’s pretty fun."
+    }
+  },
+  "referral": {
+    "tooltip": "Get Rewards",
+    "modal": {
+        "title": "Invite friends.<br/>Earn rewards.",
+        "description": "Share the power of n1n. When friends join, you both get instant credits. Plus, earn 10% on their first 3 deposits.",
+        "give": "Give",
+        "get": "Get",
+        "cta": "Get Invite Link",
+        "note": "Sign in to generate your unique link."
+    }
+  }
+}
